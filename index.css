@@ -25,7 +25,7 @@ nav {
 
 nav ul li {
     display: inline;
-    padding: 5px;
+    padding: 0px;
 }
 
 nav ul li a {
@@ -33,7 +33,7 @@ nav ul li a {
     font-size: 20px;
     color: black;
     border: 2px solid black;
-    padding: 5px;
+    padding: 0px;
     border-radius: 20px;
     font-weight: bold;
     text-transform: uppercase;
@@ -45,7 +45,7 @@ nav ul li a:hover {
     font-size: 20px;
     color: black;
     border: 2px solid black;
-    padding: 5px;
+    padding: 0px;
     border-radius: 3px;
     font-weight: bold;
     text-transform: uppercase;
@@ -67,4 +67,3 @@ width: 620px;
 padding: 10%;
 
 }
-
